@@ -8,8 +8,8 @@ Download
 ----------------
 ### Manually
 The files can be downloaded from:
-* Minified [CSS](https://raw.githubusercontent.com/l-lin/font-awesome-animation/master/dist/font-awesome-animation.min.css) for production usage
-* Un-minified [CSS](https://raw.githubusercontent.com/l-lin/font-awesome-animation/master/dist/font-awesome-animation.css) for development
+* Minified [CSS](https://raw.githubusercontent.com/Winplaybox/font/master/font-awesome-animation.min.css) for production usage
+* Un-minified [CSS](https://raw.githubusercontent.com/Winplaybox/font/master/font-awesome-animation.css) for development
 
 ### With BowerJS
 ```
@@ -22,10 +22,6 @@ Include CSS file in your index.html file:
 ```html
 <link rel="stylesheet" href="font-awesome-animation.min.css">
 ```
-
-Usage
-================
-See [live demo](https://l-lin.github.com/font-awesome-animation).
 
 Development
 ================
@@ -47,6 +43,3 @@ You can generate the CSS file with prefixes and the minified CSS file by executi
 $ grunt
 ```
 
-License
-================
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
